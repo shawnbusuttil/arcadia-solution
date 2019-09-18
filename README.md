@@ -36,3 +36,8 @@ Test Data:
 
     Basket: SR1, SR1, FR1, SR1
     Total price expected: £16.61
+
+## Usage Notes
+
+1. To start run `npm run start`
+2. Change the values in the cart.json and save to update the total price.

@@ -1,0 +1,18 @@
+{
+	"rules": [
+		{
+			"type": "BUY1GET1FREE",
+			"payload": {
+				"product": "FR1"
+			}
+		},
+		{
+			"type": "BULKPURCHASE",
+			"payload": {
+				"product": "SR1",
+				"quantity": 3,
+				"discount": 0.50
+			}
+		}
+	]
+}
